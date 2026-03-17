@@ -1,15 +1,26 @@
-👋 Olá! Eu sou o Costa Samundi, um estudante de programação apaixonado por JavaScript, HTML e CSS. Atualmente estou aprimorando minhas habilidades na Escola 42 Luanda, em Angola, onde estou mergulhando no mundo da linguagem C. Sempre em busca de aprender novas tecnologias e expandir meu conhecimento!
+# Costa Samundi
 
-🌱 Atualmente aprendendo: Linguagem C
+Desenvolvedor Full-Stack com foco em Web3 e DApps.
+Estudante da 42 Luanda — escola de engenharia de software peer-to-peer.
+Construindo na interseção de frontend moderno e blockchain.
 
-💻 Habilidades: JavaScript, HTML, CSS
+## Stack
 
-📚 Interesses: Desenvolvimento web, Programação funcional
+**Frontend:** React, React Native, SolidJS, TypeScript, JavaScript, HTML/CSS
+**Backend:** Node.js, PostgreSQL, MongoDB
+**Blockchain:** Solidity, ERC-20/NFT deploy, DeFi protocols (usuário + builder)
+**Systems:** C, C++
 
-📍 Localização: Luanda, Angola
+## Atualmente
 
-Vamos colaborar e aprender juntos! 🚀
-<!---
-DevCostaSamundi/DevCostaSamundi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Aprofundando conhecimento em smart contracts e arquitetura DeFi
+- Buscando contribuições em projetos Web3 open-source
+- Disponível para bounties e freelance em blockchain/fullstack
+
+## Objetivo
+
+Construir produtos Web3 que funcionam em produção.
+Não whitepapers. Código.
+
+📍 Luanda, Angola
+🌐 Superteam: [seu usuário]
