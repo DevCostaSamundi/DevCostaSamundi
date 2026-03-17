@@ -23,4 +23,4 @@ Construir produtos Web3 que funcionam em produção.
 Não whitepapers. Código.
 
 📍 Luanda, Angola
-🌐 Superteam: [seu usuário]
+🌐 Superteam: Hardhatcs
