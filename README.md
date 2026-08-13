@@ -24,3 +24,5 @@ Não whitepapers. Código.
 
 📍 Luanda, Angola
 🌐 Superteam: Hardhatcs
+
+https://updraft.cyfrin.io/courses/blockchain-basics/final/proficiency-exam
